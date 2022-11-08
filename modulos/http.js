@@ -36,3 +36,4 @@ console.log("escuchando http en el puerto 3000");
 // Usando debugger with flag inspect
 // node --inspect modulos/http.js  
 // para ver en el navegador ir a chrome://inspect/#devices
+// select option target open popup devtools
